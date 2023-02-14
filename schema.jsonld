@@ -1,6 +1,7 @@
 {
   "@context": {
     "Question": "https://schema.org/Question",
-    "FlashCardNote": "https://schema.org/Question"
+    "FlashCardNote": "https://schema.org/Question",
+    "frontSide": "https://schema.org/text"
   }
 }
