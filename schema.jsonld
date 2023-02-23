@@ -2,6 +2,7 @@
   "@context": {
     "Question": "https://schema.org/Question",
     "FlashCardNote": "https://schema.org/Question",
-    "frontSide": "https://schema.org/text"
+    "frontSide": "https://schema.org/text",
+    "backSide": "https://schema.org/text"
   }
 }
